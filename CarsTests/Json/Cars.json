@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "content": [{
+        "id": 119302,
+        "title": "Q7 - Greatness starts, when you don't stop.",
+        "dateTime": "25.05.2018 14:13",
+        "tags": [],
+        "content": [{
+            "type": "text",
+            "subject": "Q7",
+            "description": "The Audi Q7 is masculine."
+        }],
+        "ingress": "The Audi Q7 is the result of an ambitious idea: never cease to improve.",
+        "image": "",
+        "created": 1511968425,
+        "changed": 1534311497
+    }, {
+        "id": 119300,
+        "title": "Q5 - Created for almost any landscape.",
+        "dateTime": "29.11.2017 15:12",
+        "tags": [],
+        "content": [{
+            "type": "text",
+            "subject": "Q5",
+            "description": "Expressive appearance, powerful drive, and pioneering technology. Your options are just as diverse. Every day anew \u2013 with the Audi Q5. Don't leave anything to chance. Whether it comes to comfort, style, or dynamics, the Audi Q5 will win you over from the first moment. "
+        }],
+        "ingress": "Don't leave anything to chance. Whether it comes to comfort, style, or dynamics, the Audi Q5 will win you over from the first moment. ",
+        "image": "",
+        "created": 1511968397,
+        "changed": 1516864387
+    }],
+    "serverTime": 1648287736
+}
